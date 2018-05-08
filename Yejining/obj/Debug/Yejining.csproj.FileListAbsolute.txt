@@ -12,3 +12,5 @@ C:\Users\User\Documents\GitHub\Yejining\Yejining\obj\Debug\Yejining.csproj.Gener
 C:\Users\User\Documents\GitHub\Yejining\Yejining\obj\Debug\Yejining.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\GitHub\Yejining\Yejining\obj\Debug\Yejining.exe
 C:\Users\User\Documents\GitHub\Yejining\Yejining\obj\Debug\Yejining.pdb
+C:\Users\User\Documents\GitHub\Yejining\Yejining\obj\Debug\SearchModeBackground.g.cs
+C:\Users\User\Documents\GitHub\Yejining\Yejining\obj\Debug\SearchModeBackground.baml

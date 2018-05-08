@@ -15,18 +15,13 @@ using System.Windows.Shapes;
 namespace Yejining
 {
     /// <summary>
-    /// MainWindow.xaml에 대한 상호 작용 논리
+    /// SearchModeBackground.xaml에 대한 상호 작용 논리
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class SearchModeBackground : PageFunction<String>
     {
-        SearchModeBackground searchModeBackground = new SearchModeBackground();
-
-        public MainWindow()
+        public SearchModeBackground()
         {
             InitializeComponent();
-            //MainGrid.Children.Add(searchModeBackground);
-
-
         }
     }
 }

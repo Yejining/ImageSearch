@@ -5,8 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Yejining"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
+        Title="MainWindow" Height="597" Width="373">
+    <Grid x:Name="MainGrid">
+        <Image x:Name="upper_background_img_item" Width="373" Height="100" HorizontalAlignment="Left" Stretch="Fill"  Margin="0,0,-0.333,0" VerticalAlignment="Top" Source="image/upperBackground.PNG"/>
+        <TextBlock HorizontalAlignment="Left" Foreground="White" FontFamily="KakaoOTF" FontSize="18" FontWeight="Light"  Margin="20,15,0,0" TextWrapping="Wrap" Text="yejin" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Foreground="White" FontFamily="KakaoOTF" FontSize="18" FontWeight="DemiBold"  Margin="55,15,0,0" TextWrapping="Wrap" Text="ing" VerticalAlignment="Top"/>
+
     </Grid>
 </Window>

@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\Yejining\Yejining\bin\Debug\Yejining.exe
+C:\Users\User\Documents\GitHub\Yejining\Yejining\bin\Debug\Yejining.pdb
+C:\Users\User\Documents\GitHub\Yejining\Yejining\obj\Debug\Yejining.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Yejining\Yejining\obj\Debug\MainWindow.g.cs
+C:\Users\User\Documents\GitHub\Yejining\Yejining\obj\Debug\App.g.cs
+C:\Users\User\Documents\GitHub\Yejining\Yejining\obj\Debug\Yejining_MarkupCompile.cache
+C:\Users\User\Documents\GitHub\Yejining\Yejining\obj\Debug\Yejining_MarkupCompile.lref
+C:\Users\User\Documents\GitHub\Yejining\Yejining\obj\Debug\MainWindow.baml
+C:\Users\User\Documents\GitHub\Yejining\Yejining\obj\Debug\Yejining.g.resources
+C:\Users\User\Documents\GitHub\Yejining\Yejining\obj\Debug\Yejining.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\Yejining\Yejining\obj\Debug\Yejining.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\Yejining\Yejining\obj\Debug\Yejining.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Yejining\Yejining\obj\Debug\Yejining.exe
+C:\Users\User\Documents\GitHub\Yejining\Yejining\obj\Debug\Yejining.pdb
